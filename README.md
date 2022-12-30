@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Jonathan !
+
+---
+
+Now I'm on Codeberg for my personal projects
+
+<a href='https://codeberg.org/rikles'>codeberg.org/rikles</a>
 
 <!--
 **jogubo/jogubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
